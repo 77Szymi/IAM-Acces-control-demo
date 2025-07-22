@@ -1,0 +1,26 @@
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "EC2_Operator",
+            "UserId": "AIDATXBKFQSMGZWJWIPVY",
+            "Arn": "arn:aws:iam::255638996120:user/EC2_Operator",
+            "CreateDate": "2025-07-22T22:42:47+00:00"
+        },
+        {
+            "Path": "/",
+            "UserName": "Read_Only",
+            "UserId": "AIDATXBKFQSMF2KTPSZPY",
+            "Arn": "arn:aws:iam::255638996120:user/Read_Only",
+            "CreateDate": "2025-07-22T22:34:11+00:00"
+        },
+        {
+            "Path": "/",
+            "UserName": "Szymi-Admin",
+            "UserId": "AIDATXBKFQSMLUKTZULRN",
+            "Arn": "arn:aws:iam::255638996120:user/Szymi-Admin",
+            "CreateDate": "2025-07-21T09:02:56+00:00",
+            "PasswordLastUsed": "2025-07-22T22:44:46+00:00"
+        }
+    ]
+}
